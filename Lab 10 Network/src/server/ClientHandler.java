@@ -1,10 +1,16 @@
 	package server;
 
-public class ClientHandler {
+import java.net.Socket;
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+public class ClientHandler extends Thread {
+	private Socket clientSocket;
+	
+	public ClientHandler(Socket socket) {
+		this.clientSocket = socket;
+	}
+	
+	public void run() {
+		//handle client requests
 	}
 
 }
