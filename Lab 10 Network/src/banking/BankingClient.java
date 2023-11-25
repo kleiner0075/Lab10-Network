@@ -19,7 +19,8 @@ public class BankingClient {
 	private double checkBalance(int userId) {
 		//fund
 		double funds = 0;
-		
+		System.out.println("you're broke as fuck lmaooooooo");
+
 		return funds;
-	}
+		}
 }
