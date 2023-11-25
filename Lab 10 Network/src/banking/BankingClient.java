@@ -17,7 +17,7 @@ public class BankingClient {
 	}
 	
 	private double checkBalance(int userId) {
-		//funds
+		//fund
 		double funds = 0;
 		
 		return funds;
