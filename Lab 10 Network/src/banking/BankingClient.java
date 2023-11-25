@@ -20,6 +20,7 @@ public class BankingClient {
 		//fund
 		double funds = 0;
 		System.out.println("you're broke as fuck lmaooooooo");
+		System.out.println("ryan has tiny balls");
 
 		return funds;
 		}
