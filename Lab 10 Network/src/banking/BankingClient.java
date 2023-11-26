@@ -6,6 +6,7 @@ public class BankingClient {
 	public static void main(String[] args) {
 		//connect to server
 		//implement user interface
+		//user interafacaeasdgfasdfasdfasdfasdasdf
 		Scanner userInput = new Scanner(System.in);
 		System.out.println("Welcome to the Bank of RAK");
 		System.out.println("Please select an option:");
