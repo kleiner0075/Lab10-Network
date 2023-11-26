@@ -4,6 +4,15 @@ public class BankingClient {
 	public static void main(String[] args) {
 		//connect to server
 		//implement user interface
+		boolean doContinue = true;
+		
+		while (doContinue == true) {
+			System.out.println("");
+			System.out.println("");
+			System.out.println("");
+			System.out.println("");
+			System.out.println("");
+		}
 	}
 	
 	private void loginUser(String username, String password) {
